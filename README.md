@@ -1,6 +1,10 @@
 # Grad-CAM/Grad-CAM++ Method On CNN-Based Models
+** **
+**Jie Lu(jielu666@bu.edu)**
 
+**Joaquin De La Guardia (jdelag18@bu.edu)**
 
+** **
 
 
 **The Structure of Grad-CAM**
