@@ -49,7 +49,8 @@ python main.py --image-path examples/pic1.jpg \
 ## Project Goal
 
 
-### Use the Grad-CAM method to apply on different CNN models. Find out which network is effected when use the grad-CAM to localize. 
+### Use the Grad-CAM and Grad-CAM++ method to apply on different CNN models. Find out which network is the most class-discrimitive  when use the grad-CAM to localize. We can observe the localize region to have an "visual explanation". 
+#### Example:
 - Single object
 - Multi-object
 
@@ -119,6 +120,10 @@ python main.py --image-path examples/pic1.jpg \
 [Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391)
 
 [Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/pdf/1710.11063.pdf)
+
+## Contribution
+- Jie Lu(motivation, goal, experiment part, architechture and method description, running example code on SCC)
+- Joaquin(one Bias Fairness slide)
 
 
 
